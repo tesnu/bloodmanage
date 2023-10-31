@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'blooddonationmanagement'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB33F7CFA3F84DC19084762750E5DDE1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C47E920397B498880D957943D8E47B6 }}
           package: .
